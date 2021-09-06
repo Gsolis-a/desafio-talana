@@ -1,0 +1,11 @@
+{% block content %}
+{% autoescape off %}
+Hi {{ user.username }},
+
+Please click on the link below to confirm your registration:
+
+{% for obj in object_list%}
+
+    <a href="{% url 'core:activate' id=object.i%}">confirm registration</a>
+{% endautoescape %}
+{% endblock %}
