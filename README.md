@@ -4,6 +4,9 @@
 
   Muchas gracais por la oportunidad.
    -->
+
+   <!-- despues de un ligero contratiempo logre recuperar mis archivos gracias a mis estudios en criminalistica y ciberseguridad uff!! ahora si -->
+   
 # docker compose up -- build
 
 # createsuperuser
